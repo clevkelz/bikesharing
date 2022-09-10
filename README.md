@@ -15,5 +15,8 @@ Ridership data from the Citi Bike sharing program in New York (https://s3.amazon
 - Gender (unknown, male, or female)
 - Year of Birth
 
+## Results
+
+The results of the analysis are housed in this ![Tableau Story.](https://public.tableau.com/app/profile/kelley.richards/viz/CitiBikeRideSharing_16627616385190/sheet8)
 
 [^1]: The trip duration data were modified using Python to change the format from an integer to a datetime datatype to make it possible to render this information correctly in Tableau.
