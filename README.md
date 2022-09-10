@@ -27,6 +27,13 @@ Eight visualizations were made as follows:
 
 Most rides are short; the peak ride time is only five minutes.  This suggests that many trips are purpose-driven such as to commute to work, to run errands, to visit friends, etc. rather than leaisurely rides.
 
+### Checkout Times by Gender
+
+![image](https://user-images.githubusercontent.com/106293233/189464261-166ab1ea-f6e7-4fde-b751-823fe5e568fa.png)
+
+Trip duration peaks at the same time for men and women but levels off more slowly for men, indicating that men tend to take longer trips than women.  This visualiation also shows that there are much more male than female riders which is corroborated by the Gender Breakdown pie chart.
+
+
 
 
 
