@@ -45,6 +45,33 @@ This heatmap illustrates that ridership is highest during the morning and evenin
 
 This heatmap does not show a distinct difference between the peak ridership times (as described above) for men and women.
 
+### User Trips by Gender by Weekday
+
+![image](https://user-images.githubusercontent.com/106293233/189464941-e00eec73-8d01-4d87-b286-8f32b53ce8ed.png)
+
+This heatmap illusrates that customers are more likely to use bikes on the weekend, which indicates that these are more casual riders.  The heaviest use for subscribers is during the week, particular on Thursdays.  This suggests that subscribers may rely on the Citi Bikes for a regular mode of transportation.  The heatmap also shows that more rides are made by subscribers than customers, which is corroborated by Customer Type pie chart.  Finally, this heatmap illustrates that men are more likely to be subscribers.   
+
+### Gender Breakdown
+
+![image](https://user-images.githubusercontent.com/106293233/189465063-e8feae87-de51-4e35-b226-a55645e7a252.png)
+
+This pie chart shows that men are the large majority of riders.  
+
+### Customer Breakdown
+
+![image](https://user-images.githubusercontent.com/106293233/189465180-c2f0dd28-c043-4ace-ae96-f9803909336f.png)
+
+This pie chart shows that subscribers, who have an annual membership, make up the substantial majority of the riders.
+
+### August Peak Hours
+
+![image](https://user-images.githubusercontent.com/106293233/189465363-27e8182e-e9c8-4dd5-8b5e-8fa5e8e787a5.png)
+
+This bar chart demonstrates that the highest number of rides occur in the evenings.  This main supports the results from the Checkout Times for Users chart; however, there are differences in usage patterns for weekdays and weekends. 
+
+
+
+
 
 
 
