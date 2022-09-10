@@ -29,9 +29,19 @@ Most rides are short; the peak ride time is only five minutes.  This suggests th
 
 ### Checkout Times by Gender
 
-![image](https://user-images.githubusercontent.com/106293233/189464261-166ab1ea-f6e7-4fde-b751-823fe5e568fa.png)
+![image](https://user-images.githubusercontent.com/106293233/189464391-1119a7c4-a276-470b-907f-c731d39a72d5.png)
 
 Trip duration peaks at the same time for men and women but levels off more slowly for men, indicating that men tend to take longer trips than women.  This visualiation also shows that there are much more male than female riders which is corroborated by the Gender Breakdown pie chart.
+
+### Trips by Weekday per Hour
+
+![image](https://user-images.githubusercontent.com/106293233/189464580-da39bf9d-5b34-478e-bf71-85a66cfc8b90.png)
+
+This heatmap illustrates that ridership is highest during the morning and evening commute times during the week but is more evenly distributed among daylight hours during the week.  Bikes may need be redistributed on the weekdays to reflect this different demand pattern.
+
+
+
+
 
 
 
