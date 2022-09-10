@@ -69,6 +69,20 @@ This pie chart shows that subscribers, who have an annual membership, make up th
 
 This bar chart demonstrates that the highest number of rides occur in the evenings.  This main supports the results from the Checkout Times for Users chart; however, there are differences in usage patterns for weekdays and weekends. 
 
+## Summmary
+
+### General Conclusions
+
+These visualizations provide important conclusions about the Citi Bike riders.  These key takeaways should be considered when developing a plan for a similar program in Des Moines:
+- Short trips appear to be the "sweet spot" so successful business plan should focus on high volume with enough stations to cater to these quick trips.
+- Bikes should be readily accessible to people's houses in the morning hours of the weekdays and then quickly available near workplaces in the evening hours.  Bikes may need to be redistributed on the weekends to accomondate a more steady demand throughout the day.
+- There appears to be a strong relationship between subscribers and regular use of the bikes.  Benefits of subscribership should be highlighted when developing marketing plans.
+- Men use the bikes more often, indicating that they likely see the bikes as a regular, reliable form of transportation.  Marketing research should be conducted to see why women are more reluctant to use the bikes.
+
+### Additional Visualizations to Explore
+
+Adding visualizations that focus on the age of the riders could guide decisions regarding where more bikes are needed; for example, if younger people use the bikes more often, more bikes should be placed near college campuses or other areas to which young poeple flock.  Visualizations that show the distance traveled from the start station could help planners map out where additional stations may be needed and whether bikes may need to be more regularly repaired from these stations as longer trips could result in more wear and tear to the bikes coming through there.
+
 
 
 
