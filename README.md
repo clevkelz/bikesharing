@@ -39,6 +39,12 @@ Trip duration peaks at the same time for men and women but levels off more slowl
 
 This heatmap illustrates that ridership is highest during the morning and evening commute times during the week but is more evenly distributed among daylight hours during the week.  Bikes may need be redistributed on the weekdays to reflect this different demand pattern.
 
+### Trips by Gender (Weekday per Hour)
+
+![image](https://user-images.githubusercontent.com/106293233/189464706-f0501ea7-5a2f-4cfd-a123-0e8e6d693ed3.png)
+
+This heatmap does not show a distinct difference between the peak ridership times (as described above) for men and women.
+
 
 
 
