@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-Ridership data from the Citi Bike sharing program in New York (https://s3.amazonaws.com/tripdata/index.html) was evaluated to determine whether a similar program could be feasible in Des Moines, Iowa.  Data from August 2019 were selected for review as selecting a month with warmer weather would result in a more robust set of information to analyze.  The data contained the following fields:
+Ridership data from the Citi Bike sharing program in New York (https://s3.amazonaws.com/tripdata/index.html) was evaluated to determine whether a similar program could be feasible in Des Moines, Iowa.  Data from August 2019 were chosen for review as selecting a month with warmer weather would result in a more robust set of information to analyze.  The data contained the following fields:
 - Trip Duration[^1]
 - Start Time and Date
 - Stop Time and Date
@@ -37,7 +37,7 @@ Trip duration peaks at the same time for men and women but levels off more slowl
 
 ![image](https://user-images.githubusercontent.com/106293233/189464580-da39bf9d-5b34-478e-bf71-85a66cfc8b90.png)
 
-This heatmap illustrates that ridership is highest during the morning and evening commute times during the week but is more evenly distributed among daylight hours during the week.  Bikes may need be redistributed on the weekdays to reflect this different demand pattern.
+This heatmap illustrates that ridership is highest during the morning and evening commute times during the week but is more evenly distributed among daylight hours on weekends  Bikes may need be allocated differently to meet the different demand patterns.
 
 ### Trips by Gender (Weekday per Hour)
 
@@ -49,7 +49,7 @@ This heatmap does not show a distinct difference between the peak ridership time
 
 ![image](https://user-images.githubusercontent.com/106293233/189464941-e00eec73-8d01-4d87-b286-8f32b53ce8ed.png)
 
-This heatmap illusrates that customers are more likely to use bikes on the weekend, which indicates that these are more casual riders.  The heaviest use for subscribers is during the week, particular on Thursdays.  This suggests that subscribers may rely on the Citi Bikes for a regular mode of transportation.  The heatmap also shows that more rides are made by subscribers than customers, which is corroborated by Customer Type pie chart.  Finally, this heatmap illustrates that men are more likely to be subscribers.   
+This heatmap illustrates that customers are more likely to use bikes on the weekend, which indicates that these are more casual riders.  The heaviest use for subscribers is during the week, particular on Thursdays.  This suggests that subscribers may rely on the Citi Bikes for a regular mode of transportation.  The heatmap also shows that more rides are made by subscribers than customers, which is corroborated by Customer Type pie chart.  Finally, this heatmap illustrates that men are more likely to be subscribers.   
 
 ### Gender Breakdown
 
@@ -74,8 +74,8 @@ This bar chart demonstrates that the highest number of rides occur in the evenin
 ### General Conclusions
 
 These visualizations provide important conclusions about the Citi Bike riders.  These key takeaways should be considered when developing a plan for a similar program in Des Moines:
-- Short trips appear to be the "sweet spot" so successful business plan should focus on high volume with enough stations to cater to these quick trips.
-- Bikes should be readily accessible to people's houses in the morning hours of the weekdays and then quickly available near workplaces in the evening hours.  Bikes may need to be redistributed on the weekends to accomondate a more steady demand throughout the day.
+- Short trips appear to be the "sweet spot" so a successful business plan should focus on high volume with enough stations to cater to these quick trips.
+- Bikes should be readily accessible to people's residences in the morning hours of the weekdays and then quickly available near workplaces in the evening hours.  Bikes may need to be redistributed on the weekends to accomondate a more steady demand throughout the day.
 - There appears to be a strong relationship between subscribers and regular use of the bikes.  Benefits of subscribership should be highlighted when developing marketing plans.
 - Men use the bikes more often, indicating that they likely see the bikes as a regular, reliable form of transportation.  Marketing research should be conducted to see why women are more reluctant to use the bikes.
 
